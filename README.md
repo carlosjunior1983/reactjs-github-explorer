@@ -47,7 +47,11 @@ Tela do repositório selecionado.
   - Dentro da pasta do projeto, execute o comando `yarn` para instalar as dependências.
   - Logo após, execute o comando `yarn start` para executar o projeto.
   - Na página aberta, o autor/repositório e clique em pesquisar.
+
   Ex.:
+
   -- facebook/react
+
   -- facebook/react-native
+
   -- angular/angular
