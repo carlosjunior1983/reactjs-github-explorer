@@ -11,6 +11,7 @@ Ao selecionar um autor/repositório, será direcionado a uma página contendo ma
 O projeto utiliza a API: `api.github.com` para coletar as informações de repositório e suas issues.
 
 Author/Repository: `api.github.com/repos/author/repository`
+
 Author/Repository/Issues: `api.github.com/issuesauthor/repository/issues`
 
 <br>
@@ -40,7 +41,7 @@ Tela do repositório selecionado.
 <br>
 
 
-## Instruções para testar
+## Instruções para teste
 
   - Baixar ou clonar o projeto.
   - Dentro da pasta do projeto, execute o comando `yarn` para instalar as dependências.
