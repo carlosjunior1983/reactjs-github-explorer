@@ -49,9 +49,6 @@ Tela do repositório selecionado.
   - Na página aberta, o autor/repositório e clique em pesquisar.
 
   Ex.:
-
-  -- facebook/react
-
-  -- facebook/react-native
-
-  -- angular/angular
+  facebook/react <br>
+  facebook/react-native <br>
+  angular/angular <br>
