@@ -4,26 +4,29 @@
 
 ## Descrição
 
-GITHUB_EXPLORER é um projeto de estudo para armazenar o autor/repositorio do github.
-Ao selecionar um autor/repositório, será direcionado a uma página contendo mais informações da opção escolhida e suas issues do repositório.
-<br>
+GITHUB_EXPLORER é um projeto de estudo para testar a API do Github.
 
-O projeto utiliza a API: `api.github.com` para coletar as informações de repositório e suas issues.
+O objetivo é receber o `author/repository` e verificar (via API) se existe o autor e o repositório e adicionar no localstorage do browser, montando uma lista de repositórios.
 
-Author/Repository: `api.github.com/repos/author/repository`
+Clique no `author/repository` para abrir uma nova página contendo mais informações do repositório. Para apresentar as informações, é realizado uma consulta via API.
 
-Author/Repository/Issues: `api.github.com/issuesauthor/repository/issues`
+A finalidade é estudar o comportamento de API externo, neste caso o API da GitHub.
 
 <br>
-<br>
 
+API GitHub: `api.github.com`
+
+API para coletar informações do Author/Repository: `api.github.com/repos/author/repository`
+
+API para coletar informações do Author/Repository/Issues: `api.github.com/issuesauthor/repository/issues`
+
+<br>
 
 ## Tecnologias utilizadas:
 <br>
 
 `React` `TypeScript` `Axios` `ESLint` `Prettier`
 
-<br>
 <br>
 
 ## Imagens do projeto
@@ -48,7 +51,7 @@ Tela do repositório selecionado.
   - Logo após, execute o comando `yarn start` para executar o projeto.
   - Na página aberta, o autor/repositório e clique em pesquisar.
 
-  Ex.:
+  Ex.:<br>
   facebook/react <br>
   facebook/react-native <br>
   angular/angular <br>
