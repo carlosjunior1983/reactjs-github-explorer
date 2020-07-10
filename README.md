@@ -63,5 +63,5 @@ Tela do repositório selecionado.
 
 
 
-## Fonte do desafio.
-  Rocketseat
+
+Fonte do Desafio: Rocketseat
