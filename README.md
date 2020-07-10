@@ -21,7 +21,7 @@ API para coletar informações do Author/Repository: `api.github.com/repos/autho
 API para coletar informações do Author/Repository: `api.github.com/repos/author/repository`
 
 API para coletar informações do Author/Repository/Issues: `api.github.com/repos/author/repository/issues`
-<br>
+<br><br>
 Author: login do usuário<br>
 Repository: nome do repositório.
 
