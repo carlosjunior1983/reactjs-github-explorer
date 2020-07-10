@@ -18,7 +18,8 @@ API GitHub: `api.github.com`
 
 API para coletar informações do Author/Repository: `api.github.com/repos/author/repository`
 
-API para coletar informações do Author/Repository/Issues: `api.github.com/issuesauthor/repository/issues`
+API para coletar informações do Author/Repository: `api.github.com/repos/author/repository`
+API para coletar informações do Author/Repository/Issues: `api.github.com/repos/author/repository/issues`
 
 <br>
 
